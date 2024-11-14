@@ -1,0 +1,1 @@
+from scraper.crex_sraper import Scraper

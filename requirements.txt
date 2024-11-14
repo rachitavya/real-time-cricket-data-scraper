@@ -1,0 +1,7 @@
+beautifulsoup4
+selenium
+webdriver_manager
+pymongo
+requests
+apscheduler
+python-dotenv
